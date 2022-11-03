@@ -1,5 +1,7 @@
 # BioinformaticsAlgorithmsBook
 Repository for code of the book "Bioinformatics Algorithms" by Miguel Rocha and Pedro Ferreira. Publisher: Elsevier
+
+
 <img src="https://user-images.githubusercontent.com/22194539/199757184-e57ea2de-4da8-4a2f-bd40-86e35439537b.jpg" width="200">
 
 [Bioinformatics Algorithms: Design and Implementation in Python] (https://www.amazon.com/Bioinformatics-Algorithms-Design-Implementation-Python/dp/0128125209)
